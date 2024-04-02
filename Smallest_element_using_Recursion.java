@@ -14,7 +14,7 @@ public class Smallest_element_using_Recursion {
         int A[] = { 15, 60, -6, 0, 2};
         int n = A.length;
         // Function calling
-        System.out.println("Smallest element in the array is: "+findMinimum(A, n));
+        System.out.println("Smallest element in the array is: " +findMinimum(A, n));
     }
 }
 

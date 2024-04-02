@@ -1,4 +1,4 @@
-public class Sortarray {
+public class Sort_array {
     public static void main(String[] args) {
         int arr[] = {30,50,40,70,10,20};
         int temp = 0;

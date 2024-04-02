@@ -1,4 +1,4 @@
-public class Printtargetarray {
+public class Target_number_array {
     public static int[] printtarget(int arr[],int target)
     {
         for(int i = 0;i<arr.length;i++)
